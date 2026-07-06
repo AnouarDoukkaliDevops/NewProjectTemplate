@@ -1,5 +1,5 @@
 ---
-name: pull_request_template
+name: Issue template
 about: describe what the PR does
 title: ''
 labels: ''
